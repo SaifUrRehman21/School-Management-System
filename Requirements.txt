@@ -1,0 +1,3 @@
+For use this software you must have.
+1. SQLyog Community v11.51
+2. jdk is alse installed in your system
